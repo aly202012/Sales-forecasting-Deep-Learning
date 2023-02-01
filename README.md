@@ -1,4 +1,4 @@
-# Sales-forecasting-Deep-Learning
+# Sales-forecasting-Project
 
 ## Details:
 
